@@ -2,7 +2,7 @@
 <html>
     <head>
     <meta charset="utf-8">
-     <link rel="stylesheet" href="/cst336/cst338-sp18-hm22/style.css">
+     <link rel="stylesheet" href=" ./style.css">
     </head>
 
        
@@ -105,9 +105,8 @@ while($i <= 5){
     
 </body>
 <footer>
-    
 
-       <img src="/cst336/cst338-sp18-hm22/img/cat2.jpg" class = "cat" alt="cat2" height="300" width="300">
+       <img src="./img/cat2.jpg" class = "cat" alt="cat2" height="300" width="300">
 
 
       
